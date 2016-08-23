@@ -19,12 +19,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
-    
-    //todo: load track from http ???
-
-    //todo: change dates of files
-    //todo: check folders in finder
-    
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
         
